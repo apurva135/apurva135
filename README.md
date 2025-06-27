@@ -8,9 +8,6 @@ Backend developer passionate about cloud-native microservices and scalable syste
 - GraphQL  
 - Cloud security
 
-### 💞️ Let’s Collaborate
-Open to collaboration on Java, Spring Boot, and cloud projects.
-
 ### 📫 Get in Touch  
 [apurvashirbhate114@gmail.com](mailto:apurvashirbhate114@gmail.com) | [LinkedIn](Your_LinkedIn_URL)
 
