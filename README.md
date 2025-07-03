@@ -27,4 +27,4 @@ Backend developer passionate about cloud-native microservices and leading end-to
 ### 🔧 Tech Stack
 Java | Spring Boot | PostgreSQL | MongoDB | Docker | Kubernetes | AWS | React | Kafka | Jenkins | CI/CD
 
-[![Apurva's GitHub stats](https://github-readme-stats.vercel.app/api?username=apurvashirbhate&show_icons=true&count_private=true&hide=prs&theme=shadow_green)](https://github.com/anuraghazra/github-readme-stats)
+[![Apurva's GitHub stats](https://github-readme-stats.vercel.app/api?username=apurvashirbhate&show_icons=true&count_private=true&hide=prs&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
