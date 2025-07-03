@@ -1,18 +1,12 @@
 # Hi, I’m Apurva Shirbhate 👋
 
+![](https://komarev.com/ghpvc/?username=apurvashirbhate&color=blue)
+
+[![Apurva's GitHub stats](https://github-readme-stats.vercel.app/api?username=apurvashirbhate&show_icons=true&count_private=true&hide=prs)](https://github.com/anuraghazra/github-readme-stats)
+
 ### 👀 About Me
 Backend developer passionate about cloud-native microservices and leading end-to-end development, from API design to deployment. Currently based in Dublin, I’m passionate about crafting robust backend systems that deliver real business value.
-
-### 🎓 Education
-
-- **Master of Science, Computing (Data Analytics)**  
-  *Dublin City University, Ireland*  
-  Sept 2023 – Oct 2024
-
-- **Bachelor of Engineering, Computer Science**  
-  *Modern Education Society’s College of Engineering, Pune, India*  
-  Aug 2016 – Sept 2020
-
+ 
 
 ### 🌱 Currently Learning
 - Kubernetes advanced orchestration  
