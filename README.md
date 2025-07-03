@@ -5,6 +5,14 @@
 ### 👀 About Me
 Backend developer passionate about cloud-native microservices and leading end-to-end development, from API design to deployment. Currently based in Dublin, I’m passionate about crafting robust backend systems that deliver real business value.
  
+### 📊 My Interests
+
+- Cloud-native architecture & scalable backend systems  
+- Microservices, REST APIs, automation  
+- Data analytics, AI/ML, real-time streaming (Kafka)  
+- Cloud security, DevOps, CI/CD  
+- GraphQL & modern web technologies
+
 
 ### 🌱 Currently Learning
 - Kubernetes advanced orchestration  
