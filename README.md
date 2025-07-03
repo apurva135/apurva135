@@ -1,7 +1,14 @@
 # Hi, I’m Apurva Shirbhate 👋
 
 ### 👀 About Me
-Backend developer passionate about cloud-native microservices and scalable systems.
+Backend developer passionate about cloud-native microservices and leading end-to-end development, from API design to deployment. Currently based in Dublin, I’m passionate about crafting robust backend systems that deliver real business value.
+
+### 🎓 Education
+- Master of Science, Computing (Data Analytics)
+- Dublin City University, Ireland 
+
+- Bachelor of Engineering, Computer Science
+- Modern Education Society’s College of Engineering, Pune, India 
 
 ### 🌱 Currently Learning
 - Kubernetes advanced orchestration  
@@ -9,7 +16,7 @@ Backend developer passionate about cloud-native microservices and scalable syste
 - Cloud security
 
 ### 📫 Get in Touch  
-[apurvashirbhate114@gmail.com](mailto:apurvashirbhate114@gmail.com) | [LinkedIn](Your_LinkedIn_URL)
+[apurvashirbhate114@gmail.com](mailto:apurvashirbhate114@gmail.com)
 
 ---
 
