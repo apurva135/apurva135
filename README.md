@@ -1,6 +1,6 @@
 # Hi, I’m Apurva Shirbhate 👋
 
-![](https://komarev.com/ghpvc/?username=apurvashirbhate&color=green)
+![](https://komarev.com/ghpvc/?username=apurvashirbhate&color=ae67cf)
 
 ### 👩‍💻 About Me <img src="https://github.com/apurva135/apurva135/blob/main/illustration.png" width="450px" align="right">
 Backend developer passionate about cloud-native microservices and leading end-to-end development, from API design to deployment. Currently based in Dublin, I’m passionate about crafting robust backend systems that deliver real business value.
@@ -46,8 +46,8 @@ Backend developer passionate about cloud-native microservices and leading end-to
 ### ⚙️ GitHub Analytics
 
 <a href="https://github.com/apurva135">
-  <img src="https://github-readme-stats.vercel.app/api?username=apurva135&show_icons=true&count_private=true&hide=prs&theme=ambient_gradient" alt="Apurva's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apurva135&layout=compact&theme=ambient_gradient" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=apurva135&show_icons=true&count_private=true&hide=prs&theme=jolly" alt="Apurva's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apurva135&layout=compact&theme=jolly" alt="Top Languages" />
 </a>
 
 ### 📫 Get in Touch  
