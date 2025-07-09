@@ -46,8 +46,8 @@ Backend developer passionate about cloud-native microservices and leading end-to
 ### ⚙️ GitHub Analytics
 
 <a href="https://github.com/apurva135">
-  <img src="https://github-readme-stats.vercel.app/api?username=apurva135&show_icons=true&count_private=true&hide=prs&theme=jolly" alt="Apurva's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apurva135&layout=compact&theme=jolly" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=apurva135&show_icons=true&count_private=true&hide=prs&theme=ambient_gradient" alt="Apurva's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apurva135&layout=compact&theme=ambient_gradient" alt="Top Languages" />
 </a>
 
 ### 📫 Get in Touch  
